@@ -1,101 +1,94 @@
-# Hi there! 👋
+# 🧑 Yurii Kosyi — DevOps Engineer | AI Enthusiast
 
-My name is Yurii Kosyi, though some know me as Marko 😃.
+I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading small technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure. Additionally, I am an AI enthusiast who actively integrates AI technologies into my workflows to optimize and enhance processes.
 
-I have over 15 years of various experience as a System Administrator, web developer, and leader of small development teams for websites and technical support for business clients. 
-I have an education in energy management and the development of power supply systems for industrial and municipal facilities, but I am more passionate about the IT field.
+For the past decade, I've been working at SEOSmart as the head of the technical department, where I've led a team responsible for ensuring the smooth operation of various infrastructure components, including websites, applications, and internal tools.
 
-For the past 10 years, I have been working at [SEOSmart](https://seosmart.ua) as the head of the technical department. 
-I joined the company as an SEO administrator, and with my technical background, we started offering clients comprehensive support. 
-This includes not only solutions for promoting their websites and businesses, but also full technical support for the infrastructure where these websites and applications are hosted.
+## 🛠️ Core Competencies
 
-I manage the technical infrastructure of the company to ensure the operation of all client websites and the availability of their services, such as service websites, online stores, and CRM systems.
+### 🚀 DevOps Engineering
+- **Kubernetes**: Design, deploy, and manage containerized applications, ensuring scalability and high availability.
+- **Terraform**: Infrastructure as Code (IaC) for automated cloud infrastructure provisioning and management.
+- **Google Cloud Platform (GCP)**: Experience in architecting and maintaining scalable cloud solutions.
+- **Flux & ArgoCD (GitOps)**: Automating Kubernetes deployments with GitOps practices.
+- **CI/CD Pipelines**: Extensive work on designing and maintaining CI/CD pipelines using GitHub Actions.
+- **Containers**: Proficient in Docker, managing container lifecycles and orchestration.
 
-## My Skills:
+### 🔧 Programming & Scripting
+- **Golang**: Development of automation scripts and microservices.
+- **Python**: Scripting and automation to streamline processes.
+- **PHP**: Full-stack web development, particularly for backend solutions.
+- **Bash**: Expertise in shell scripting for automation and system management tasks.
 
-- **System Administration**:
-  - Linux for Web, VPS, VDS
-  - Backup services
-  - Cloud (Hetzner, DigitalOcean, etc.)
-- **Web Development**:
-  - Frontend, Backend (PHP, HTML, CSS)
-- **Web Application Traffic and Metrics Analysis**:
-  - Google Analytics, Ahrefs, Similarweb, Semrush, Serpstat
-- **Development and Implementation of B2B SaaS Services**
-- **Team Management**
-- **Technical Support and Consulting**
+### ⚡ Observability & Monitoring
+- **Grafana**: Custom dashboards for real-time monitoring and visualization.
+- **Prometheus**: Metric collection and alerting mechanisms for system health.
+- **OpenTelemetry**: Distributed tracing and performance monitoring.
 
-## Soft Skills:
+### AI Integration & Enthusiasm
+- **AI Enthusiast**: Passionate about integrating AI technologies to optimize enterprise processes.
+- **OpenAI API**: Leveraging OpenAI's capabilities to develop intelligent automation solutions.
+- **Olama**: Experimenting with and implementing Olama-based AI models to enhance decision-making processes.
+- **OpenWebUI**: Utilizing OpenWebUI tools for AI-based interface customizations.
+- **Meta LLaMA3.1**: Working with Meta's LLaMA 3.1 model for advanced AI applications and integrations.
 
-- **Leadership**: Managing teams, developing and implementing strategies, motivating and developing staff.
-- **Communication**: Effective communication with clients, team, and management, presentation skills.
-- **Problem-Solving and Analysis**: Quick and effective resolution of technical and organizational issues.
-- **Coordination and Organization**: Planning and organizing work processes, implementing new solutions.
-- **Flexibility and Adaptability**: Ability to quickly adapt to new conditions and market demands.
-- **Stress Resistance**: Ability to work under pressure and in a fast-paced environment.
+### Additional Skills
+- **System Administration**: Expertise in managing Linux-based systems for web hosting, VPS, and VDS environments, Network.
+- **Backup Solutions**: Planning and maintaining robust backup strategies.
+- **Cloud Platforms**: Experienced with Hetzner, DigitalOcean, and GCP cloud solutions.
+- **Web Development**: Strong background in frontend and backend development with PHP, HTML, and CSS.
+- **Team Management**: Proven ability to lead, strategize, and motivate teams towards successful project completion.
 
-## Work Experience:
+## 🔍 Professional Experience
 
-### SEOSmart (2014 - Present)
-- Development and maintenance of the company's technical infrastructure
-- Linux server administration (VPS, VDS)
-- Client and team support
-- SEO site promotion (management)
-- Website development
-- Team management
+### SEOSmart (2014 - Present)  
+**Head of Technical Department**
+- Led the technical department, managing infrastructure that hosts various client services, including websites, e-commerce platforms, and SaaS solutions.
+- Built and maintained cloud infrastructure using Kubernetes, Terraform, Flux, and ArgoCD.
+- Streamlined software delivery processes by setting up CI/CD pipelines with GitHub Actions.
+- Developed monitoring and alerting solutions using Grafana, Prometheus, and OpenTelemetry to maintain operational efficiency.
+- Integrated AI-based solutions using technologies like OpenAI API, Olama, and Meta LLaMA3.1 to optimize and automate processes.
 
-### UA-WEB (2013-2014)
-- SEO Specialist - Team Lead
-- SEO site promotion
-- Development of promotion strategies
-- Client support
-- Infrastructure management
+### Previous Roles
+- **UA-WEB (2013-2014) — SEO Specialist - Team Lead**
+- **Aweb (2013) — SEO Specialist**
+- **NOVUS / Leda Company (2011-2013) — SAP Basis Administrator**
+- **Chornomorska Perlyna JSC (2008-2010) — System Administrator**
+- **Odeskyi Korovai JSC (2006-2008) — System Administrator**
 
-### Aweb (2013)
-- SEO Specialist
-- Technical site analysis
-- Writing technical specifications for fixing site issues
-- Link building
+#### ⚙️ Technologies & Responsibilities  
+- **System Administration:** Linux, Windows, Network and Server maintenance.
+- **Database Management:** Oracle DB, SAP Infrastructure support.
+- **SEO & Web Tech:** Technical SEO, Web Development (PHP, HTML, CSS).
 
-### NOVUS (2011-2013)
-- SAP Basis Administrator
-- Linux system administration (IBM)
-- Support for server infrastructure (IBM)
-- Oracle DB Administrator
-- Support SAP Team
+## 📝 Education
 
-### Leda Company (2010-2011)
-- SAP Basis Administrator
-- Support SAP Team
-- Create Documentation on the project
+### Odesa National Polytechnic University (2001-2006)
+**Bachelor’s Degree in Electrical Engineering,**  
+specialization in Power Supply for Industrial and Municipal Facilities
 
-### Chornomorska Perlyna JSC (2008-2010)
-- System Administrator
-- System administration of the enterprise's technical infrastructure
-- Network administration
-- User support
-- Server maintenance (Linux, Windows)
+### FastLane (2011)  
+Course on IBM AIX Administration and Oracle DB
 
-### Odeskyi Korovai JSC (2006-2008)
-- System Administrator
-- Network support
-- Server maintenance at enterprises
-- Technical support for accounting and dispatch points
-- Maintenance of access terminals and printing devices
-- System administration (Linux, Windows)
-- User support
-- Ensuring uninterrupted infrastructure operation 24/7
+## 📦 Additional Education
 
-## Education:
+- **GlobalLogic DEVOPS101 (2024)**  
+  Completed course on foundational DevOps practices
 
-- **Odesa National Polytechnic University** (2001-2006)
-  - Bachelor’s Degree in Electrical Engineering with a focus on Power Supply for Industrial and Municipal Facilities
+- **DevOps та Kubernetes. Практичний інтенсив+ by Prometheus (2024)**  
+  Intensive practical course focusing on DevOps methodologies and Kubernetes management
 
+## 🌐 Soft Skills
 
-- **FastLane** (2011)
-  - Course on IBM AIX Administration and Oracle DB
+- **Leadership:** I have team management skills with a focus on cultivating a supportive and productive environment.
+- **Communication:** Effectively convey complex concepts to both technical and non-technical stakeholders.
+- **Problem-Solving:** Rapid identification and resolution of technical challenges.
+- **Organization:** Proficient in planning and executing large-scale technical projects.
+- **Flexibility:** Easily adapt to evolving technologies and methodologies.
+- **Stress Management:** Ability to maintain performance under pressure in fast-paced environments.
 
-## Hobbies:
+---
+## ✈️ Hobbies:
 
 I love traveling, spending time with family, and have an interest in aviation (general).
 
