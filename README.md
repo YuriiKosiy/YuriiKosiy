@@ -17,7 +17,7 @@ For the past decade, I've been working at SEOSmart as the head of the technical 
 ### 🔧 Programming & Scripting
 - **Golang**: Development of automation scripts and microservices.
 - **Python**: Scripting and automation to streamline processes.
-- **PHP**: Full-stack web development, particularly for backend solutions.
+- **PHP**: Full-stack web development, particularly for front-end solutions.
 - **Bash**: Expertise in shell scripting for automation and system management tasks.
 
 ### ⚡ Observability & Monitoring
