@@ -43,11 +43,8 @@ For the past decade, I've been working at SEOSmart as the head of the technical 
 
 ### SEOSmart (2014 - Present)  
 **Head of Technical Department**
-- Led the technical department, managing infrastructure that hosts various client services, including websites, e-commerce platforms, and SaaS solutions.
-- Built and maintained cloud infrastructure using Kubernetes, Terraform, Flux, and ArgoCD.
-- Streamlined software delivery processes by setting up CI/CD pipelines with GitHub Actions.
-- Developed monitoring and alerting solutions using Grafana, Prometheus, and OpenTelemetry to maintain operational efficiency.
-- Integrated AI-based solutions using technologies like OpenAI API, Olama, and Meta LLaMA3.1 to optimize and automate processes.
+- Operational management of the technical department, providing support for applications, online platforms, and SaaS solutions.
+- Developed and maintained cloud infrastructure for applications and websites/e-commerce platforms.
 
 ### Previous Roles
 - **UA-WEB (2013-2014) — SEO Specialist - Team Lead**
