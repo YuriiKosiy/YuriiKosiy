@@ -1,18 +1,37 @@
 # 🧑 Yurii Kosyi — DevOps Engineer | AI Enthusiast
 
-I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading small technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure. Additionally, I am an AI enthusiast who actively integrates AI technologies into my workflows to optimize and enhance processes.
+I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading small technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure.
 
-For the past decade, I've been working at SEOSmart as the head of the technical department, where I've led a team responsible for ensuring the smooth operation of various infrastructure components, including websites, applications, and internal tools.
+For the past decade, I've been working as the DevOps and Head of the technical department, where I've led a team responsible for ensuring the smooth operation of various infrastructure components, including websites, applications, and internal tools.
 
 ## 🛠️ Core Competencies
 
-### 🚀 DevOps Engineering
-- **Kubernetes**: Design, deploy, and manage containerized applications, ensuring scalability and high availability.
-- **Terraform**: Infrastructure as Code (IaC) for automated cloud infrastructure provisioning and management.
-- **Google Cloud Platform (GCP)**: Experience in architecting and maintaining scalable cloud solutions.
-- **Flux & ArgoCD (GitOps)**: Automating Kubernetes deployments with GitOps practices.
-- **CI/CD Pipelines**: Extensive work on designing and maintaining CI/CD pipelines using GitHub Actions.
-- **Containers**: Proficient in Docker, managing container lifecycles and orchestration.
+### 🌐 DevOps Tools  
+- **Kubernetes**: Design, deploy, and manage containerized applications, ensuring scalability and high availability.  
+- **Terraform**: Infrastructure as Code (IaC) for automated cloud infrastructure provisioning and management.  
+- **Linux Systems**: Extensive experience with Linux-based systems (Ubuntu, Red Hat, CentOS, Debian..), used not only professionally but also as a daily driver operating system. Skilled in system administration, scripting, resource optimization, and troubleshooting.  
+- **Flux & ArgoCD (GitOps)**: Automating Kubernetes deployments with GitOps practices.  
+- **CI/CD Pipelines**: Extensive work on designing and maintaining CI/CD pipelines using GitHub Actions and **Jenkins**.  
+- **Ansible**: Experience in configuration management and automation for infrastructure provisioning.  
+- **Containers**: Proficient in Docker, managing container lifecycles and orchestration.  
+- **OS-Level Customization**: Installing, configuring, and customizing Linux environments for specific workflows, including development, operations, and personal use.  
+
+### ☁️ Cloud Platforms  
+- **Google Cloud Platform (GCP)**: Experience in architecting and maintaining scalable cloud solutions using:  
+  - **GKE (Google Kubernetes Engine)**  
+  - **Cloud Functions**  
+  - **Cloud Run**  
+  - **Cloud Storage**  
+- **Amazon Web Services (AWS)**: Hands-on experience with services including:  
+  - **EKS (Elastic Kubernetes Service)**: Managing Kubernetes clusters.  
+  - **Fargate**: Serverless compute for containers.  
+  - **EC2 (Elastic Compute Cloud)**: Compute resources management.  
+  - **S3 (Simple Storage Service)**: Object storage.  
+  - **RDS (Relational Database Service)**: Managed relational databases.  
+  - **VPC (Virtual Private Cloud)**: Virtual networks for cloud infrastructure.  
+  - **IAM (Identity and Access Management)**: Securing resources with access control.  
+  - **CloudWatch**: Monitoring and observability services.  
+- **Hetzner**: Deploying and managing workloads on Hetzner Cloud, focusing on cost efficiency and high performance.  
 
 ### 🔧 Programming & Scripting
 - **Golang**: Development of automation scripts and microservices.
@@ -20,24 +39,31 @@ For the past decade, I've been working at SEOSmart as the head of the technical 
 - **PHP**: Full-stack web development, particularly for front-end solutions.
 - **Bash**: Expertise in shell scripting for automation and system management tasks.
 
-### ⚡ Observability & Monitoring
-- **Grafana**: Custom dashboards for real-time monitoring and visualization.
-- **Prometheus**: Metric collection and alerting mechanisms for system health.
-- **OpenTelemetry**: Distributed tracing and performance monitoring.
+### ⚡ Observability & Monitoring  
+- **Grafana (Loki)**: Custom dashboards for real-time monitoring and visualization.  
+- **Prometheus**: Metric collection and alerting mechanisms for system health.  
+- **OpenTelemetry**: Distributed tracing and performance monitoring.  
+- **Cloud Monitoring (GCP)**: Monitoring metrics and logs in Google Cloud Platform through Stackdriver.  
+- **Amazon CloudWatch**: Comprehensive monitoring and observability platform for AWS services.  
+- **Datadog**: Cloud-based monitoring for logs, metrics, and application performance.  
+- **New Relic**: Application and infrastructure performance monitoring with advanced analytics.  
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Centralized logging and visualization for troubleshooting and monitoring.  
+- **Thanos**: Scalable, highly available metrics system built on top of Prometheus.
 
-### AI Integration & Enthusiasm
-- **AI Enthusiast**: Passionate about integrating AI technologies to optimize enterprise processes.
-- **OpenAI API**: Leveraging OpenAI's capabilities to develop intelligent automation solutions.
-- **Olama**: Experimenting with and implementing Olama-based AI models to enhance decision-making processes.
-- **OpenWebUI**: Utilizing OpenWebUI tools for AI-based interface customizations.
-- **Meta LLaMA3.1**: Working with Meta's LLaMA 3.1 model for advanced AI applications and integrations.
-
-### Additional Skills
-- **System Administration**: Expertise in managing Linux-based systems for web hosting, VPS, and VDS environments, Network.
-- **Backup Solutions**: Planning and maintaining robust backup strategies.
-- **Cloud Platforms**: Experienced with Hetzner, DigitalOcean, and GCP cloud solutions.
-- **Web Development**: Strong background in frontend and backend development with PHP, HTML, and CSS.
-- **Team Management**: Proven ability to lead, strategize, and motivate teams towards successful project completion.
+### 🛠️ Additional Skills & Experience  
+- **System Administration**: Expertise in managing Linux-based systems for web hosting, VPS, and VDS environments, including network configuration (DNS, DHCP, VPN, IPTables, and routing).  
+- **Bare-Metal Infrastructure**: Experience deploying and managing systems on bare-metal servers with focus on scalability, fault tolerance, and cost-efficiency.  
+- **On-Premise Deployments**: Setting up Kubernetes clusters, CI/CD pipelines, monitoring stacks, network services, and custom web applications for on-premises systems.  
+- **Backup Solutions**: Planning, implementing, and maintaining robust backup strategies, including automated and incremental backups for disaster recovery.  
+- **Cloud Platforms**: Extensive experience with Hetzner, DigitalOcean, AWS, and GCP, focusing on cost-efficiency, scalability, and performance.  
+- **Web Development**: Strong background in frontend and backend development, including proficiency in PHP, HTML, CSS, WordPress, OpenCart, and Strapi. Experience creating custom plugins, themes, and integrations.  
+- **WordPress & OpenCart**: Extensive experience in deploying, configuring, optimizing, and troubleshooting WordPress and OpenCart systems, including custom plugin and theme development.  
+- **CRM Systems**: Creating, customizing, and managing CRM platforms tailored to business processes, using tools like HubSpot, Odoo, and custom-built solutions.  
+- **LLM Management and AI Workloads**: Deploying, fine-tuning, and managing Large Language Models and AI/ML workloads on cloud and on-premises infrastructure with GPU hardware using frameworks like TensorFlow, PyTorch, and Hugging Face.  
+- **Database Administration**: Skilled in managing MySQL, PostgreSQL, and MongoDB databases, performing optimization, backup, and restoration.  
+- **Linux Network Management**: Building and maintaining robust Linux-based networks, configuring services like DHCP, DNS, VPN, IPTables, and ensuring efficiency and security.  
+- **Team Management**: Proven ability to lead, strategize, and motivate cross-functional teams towards successful project completion. Experienced in Agile methodologies and DevOps team workflows.  
+- **Security Best Practices**: Ensuring security across systems and networks, including implementing SSL/TLS, hardened configurations, and regular vulnerability assessments.  
 
 ## 🔍 Professional Experience
 
