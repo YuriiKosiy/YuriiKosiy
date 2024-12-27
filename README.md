@@ -1,4 +1,4 @@
-# 🧑 Yurii Kosyi — DevOps Engineer | AI Enthusiast
+# 🧑 Yurii Kosyi — DevOps Engineer
 
 I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading small technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure.
 
