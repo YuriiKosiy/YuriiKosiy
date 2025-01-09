@@ -67,12 +67,18 @@ For the past decade, I've been working as the DevOps and Head of the technical d
 
 ## 🔍 Professional Experience
 
-### SEOSmart (2014 - Present)  
-**Head of Technical Department**
-- Operational management of the technical department, providing support for applications, online platforms, and SaaS solutions.
-- Developed and maintained cloud infrastructure for applications and websites/e-commerce platforms.
+### DreemiX (2024 - Present)  
+**DevOPS**
+ - Kubernetes Management: Deploying, managing, and scaling clusters.
+ - Terraform Automation: Infrastructure as Code for cloud provisioning.
+ - CI/CD Pipelines: Setting up automated workflows for continuous integration and deployment.
+ - Cloud Management: Working with GCP, AWS, and Hetzner to build reliable and scalable solutions.
+ - Monitoring and Logging: Utilizing Prometheus, Grafana, and ELK for metrics collection and centralized logging.
+ - Scripting: Python, Bash, and Golang for process automation and optimization.
+ - My focus is on ensuring reliability, security, and efficiency in infrastructure operations.
 
 ### Previous Roles
+- **SEOSmart (2016-2024) — Web Developer - DevOPS - CTO**
 - **UA-WEB (2013-2014) — SEO Specialist - Team Lead**
 - **Aweb (2013) — SEO Specialist**
 - **NOVUS / Leda Company (2011-2013) — SAP Basis Administrator**
@@ -81,7 +87,7 @@ For the past decade, I've been working as the DevOps and Head of the technical d
 
 #### ⚙️ Technologies & Responsibilities  
 - **System Administration:** Linux, Windows, Network and Server maintenance.
-- **Database Management:** Oracle DB, SAP Infrastructure support.
+- **Database Management:** Oracle DB, SAP Infrastructure support, SQL, MySQL, PostgreSQL.
 - **SEO & Web Tech:** Technical SEO, Web Development (PHP, HTML, CSS).
 
 ## 📝 Education
