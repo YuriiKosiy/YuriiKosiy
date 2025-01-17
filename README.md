@@ -1,6 +1,6 @@
 # 🧑 Yurii Kosyi — DevOps Engineer
 
-I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading small technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure.
+I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading **small** technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure.
 
 For the past decade, I've been working as the DevOps and Head of the technical department, where I've led a team responsible for ensuring the smooth operation of various infrastructure components, including websites, applications, and internal tools.
 
@@ -67,7 +67,7 @@ For the past decade, I've been working as the DevOps and Head of the technical d
 
 ## 🔍 Professional Experience
 
-### DreemiX (2024 - Present)  
+### DreemiX (2024 - Present)  (Part Time)
 **DevOPS**
  - Kubernetes Management: Deploying, managing, and scaling clusters.
  - Terraform Automation: Infrastructure as Code for cloud provisioning.
@@ -96,16 +96,17 @@ For the past decade, I've been working as the DevOps and Head of the technical d
 **Bachelor’s Degree in Electrical Engineering,**  
 specialization in Power Supply for Industrial and Municipal Facilities
 
-### FastLane (2011)  
-Course on IBM AIX Administration and Oracle DB
 
 ## 📦 Additional Education
 
-- **GlobalLogic DEVOPS101 (2024)**  
-  Completed course on foundational DevOps practices
+- **SoftServe Academy course: Practical DevOps (2024-2025)**  
+  Completed course on Practical DevOps
 
 - **DevOps та Kubernetes. Практичний інтенсив+ by Prometheus (2024)**  
   Intensive practical course focusing on DevOps methodologies and Kubernetes management
+
+- **FastLane (2011)**  
+  Course on IBM AIX (Linux) Administration and Oracle DB
 
 ## 🌐 Soft Skills
 
