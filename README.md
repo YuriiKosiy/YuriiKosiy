@@ -6,6 +6,14 @@ I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of expe
 
 For the past decade, I've been working as the DevOps and Head of the technical department, where I've led a team responsible for ensuring the smooth operation of various infrastructure components, including websites, applications, and internal tools.
 
+## Contact Information
+
+- **Email:** [y.kosiy@gmail.com](y.kosiy@gmail.com)  
+- **LinkedIn:** [Yuriy Kosiy](https://www.linkedin.com/in/yuriy-kosiy/)  
+- **Telegram:** [@dreemix_com](https://t.me/dreemix_com)  
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/380965563936) 
+- **Phone:** +38/096/5563936
+
 ## 🛠️ Core Competencies
 
 ### 🌐 DevOps Tools  
