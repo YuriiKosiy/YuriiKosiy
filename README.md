@@ -1,4 +1,6 @@
-# 🧑 Yurii Kosyi — DevOps Engineer
+# 🧑 Yurii Kosyi — DevOps Engineer 
+
+**PDF Version** To download, [click here](README.pdf){:target="_blank"}.
 
 I'm Yurii Kosyi, though some know me as Marko 😃. I have over 15 years of experience in IT, covering system administration, web development, and leading **small** technical teams. I've specialized in building and maintaining reliable, scalable, and secure DevOps infrastructure.
 
@@ -125,3 +127,7 @@ I love traveling, spending time with family, and have an interest in aviation (g
 ---
 
 ⭐️ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yuriy-kosiy/) or [GitHub](https://github.com/YuriiKosiy) for any questions or collaboration opportunities!
+
+---
+
+**This resume is available in PDF.** To download, [click here](README.pdf){:target="_blank"}.
