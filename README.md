@@ -86,7 +86,9 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 ---
 
 ## ✈️ Hobbies  
-In my free time, I enjoy traveling, exploring aviation, and testing new DevOps and AI tools. I’m always excited to learn and experiment with the latest technologies.  
+- **AI/ML**: I regularly explore new tools and approaches (LLMs, MLOps) and integrate them into DevOps workflows with a pragmatic, no-hype mindset.  
+- **General aviation**: I’m not a pilot yet — working towards it; aviation discipline and checklists translate naturally into production operations.  
+- **Beekeeping**: I run a small apiary; systems thinking, observation, and attention to detail carry over to infrastructure work.  
 
 ---
 
