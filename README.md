@@ -2,7 +2,7 @@
 
 # 🧑 Yurii Kosyi — DevOps Engineer  
 
-Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **system administration** and **DevOps**. I specialize in creating scalable, secure, and efficient infrastructures, effectively organizing developer workflows, and maintaining secure, reliable environments to support business goals. I have strong expertise in **Linux systems**, **Docker**, and **cloud solutions**.  
+Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **system administration** and **DevOps**. I specialize in creating scalable, secure, and efficient infrastructures, effectively organizing developer workflows, and maintaining secure, reliable environments to support business goals. My primary focus is **Google Cloud (GCP)**: Kubernetes on **GKE**, **Cloud SQL**, **Cloud Run**, and **BigQuery** — with tight **IAM** integration and **Google Workspace** as the central corporate identity and access layer.  
 
 ---
 
@@ -20,11 +20,11 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 - **Kubernetes**: Deploying and managing scalable clusters.  
 - **Terraform**: Automating infrastructure as code.  
 - **Docker**: Expertise in containerization and application lifecycle management.  
-- **GitOps**: Managing deployments with **FluxCD** and **ArgoCD**.  
-- **CI/CD**: Configuring pipelines via **Jenkins** and **GitHub Actions** to automate application deployments.  
+- **GitOps**: Managing deployments with **FluxCD** and **ArgoCD** from GitLab or GitHub repo.  
+- **CI/CD**: Configuring pipelines via **GitLab CICD** and **GitHub Actions** to automate application deployments.  
 
 ### ☁️ Cloud Platforms:
-- **GCP:** GKE, Cloud Functions, Cloud Storage, SQL.  
+- **GCP:** GKE, Cloud Run, Cloud SQL, Cloud Storage, BigQuery, IAM (Workload Identity, Service Accounts).  
 - **AWS:** EC2, S3, Lambda, EKS, RDS.  
 - **Hetzner:** Robot, Cloud, Storage. Cost-efficient, high-performance workloads.  
 
@@ -36,19 +36,25 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 - **Grafana + Prometheus**: Real-time monitoring and analysis.  
 - **ELK Stack**: Centralized logging and troubleshooting system health.  
 
+### 🔐 Identity & Access Management:
+- **Google Cloud IAM**: Organizations/Folders/Projects, roles and policies, service accounts, Workload Identity (GKE/CI).  
+- **Google Workspace Admin**: SSO/SAML, groups-based access, OU structure, automated onboarding/offboarding; groups-driven RBAC across GCP and SaaS.  
+
 ---
 
 ## 👨‍💼 Professional Experience  
 
 ### **DreemiX (2024 - Present)** — DevOps Engineer (Part-Time)  
-- Managed **Kubernetes clusters**, automated deployments, and improved performance metrics.  
+- Managed **Kubernetes clusters on GKE**, automated deployments, and improved performance and reliability metrics.  
 - Designed and implemented CI/CD pipelines with GitHub Actions and Jenkins.  
-- Deployed and monitored containerized workloads using Docker.  
+- Deployed and monitored containerized workloads on **GKE** and **Cloud Run**; managed **Cloud SQL** instances and IAM policies.  
+- Integrated **Google Workspace** with **Cloud IAM** for centralized, least-privilege access to GCP resources (groups-based RBAC, SSO).  
+- Built data ingestion paths and scheduled jobs for analytics in **BigQuery** (via Cloud Storage and ETL tooling).  
 
 ### **SEOSmart (2016 - 2024)** — Web Developer and DevOps Engineer  
 - Administered Linux servers and automated workflows for legacy systems.  
 - Managed cloud infrastructure and ensured high availability.  
-- Streamlined deployments using Helm and container technologies.  
+- Streamlined deployments using Helm and container technologies; introduced groups-based access via **Google Workspace** and **IAM** where applicable.  
 
 ### **Previous Roles**:  
 - **UA-WEB (2013-2014)** — SEO Specialist, Team Lead, Web Developer (PHP).  
