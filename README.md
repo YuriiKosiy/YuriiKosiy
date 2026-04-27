@@ -16,25 +16,28 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 
 ## 🛠️ Core Competencies  
 
-### 🌐 DevOps Tools:
-- **Kubernetes**: Deploying and managing scalable clusters.  
-- **Terraform**: Automating infrastructure as code.  
-- **Docker**: Expertise in containerization and application lifecycle management.  
-- **GitOps**: Managing deployments with **FluxCD** and **ArgoCD** from GitLab or GitHub repo.  
-- **CI/CD**: Configuring pipelines via **GitLab CICD** and **GitHub Actions** to automate application deployments.  
+### 🌐 DevOps Tools & Automation:
+- **Kubernetes**: Deploying and managing scalable clusters, with deep expertise in **GKE**.  
+- **Terraform & Ansible**: Automating infrastructure as code and configuration management.  
+- **Docker & Artifact Registry**: Expertise in containerization, image management, and application lifecycle.  
+- **GitOps & CI/CD**: Managing deployments with **ArgoCD**, **FluxCD**, **Cloud Build**, **GitLab CICD**, and **GitHub Actions**.  
 
-### ☁️ Cloud Platforms:
-- **GCP:** GKE, Cloud Run, Cloud SQL, Cloud Storage, BigQuery, IAM (Workload Identity, Service Accounts).  
+### ☁️ Cloud Platforms & Bare Metal:
+- **GCP:** GKE, Cloud Run, Postgres Cloud SQL, Cloud Build, Artifact Registry, Cloud Storage, BigQuery, IAM (Workload Identity, Service Accounts).  
 - **AWS:** EC2, S3, Lambda, EKS, RDS.  
-- **Hetzner:** Robot, Cloud, Storage. Cost-efficient, high-performance workloads.  
+- **Bare Metal & Providers:** Extensive experience managing large fleets of bare metal servers on **OVH** and **Hetzner**.  
 
-### 🔧 Linux Administration:
-- **Linux Expertise**: Daily usage and administration of Linux-based systems (Ubuntu, Red Hat).  
+### 🔧 OS & System Administration:
+- **FreeBSD & Linux Expertise**: Daily usage, management, and administration of a vast number of **FreeBSD** and **Ubuntu** bare metal servers.  
 - **Scripting**: Automating processes with **Bash**, **Python**, and **Golang**.  
 
 ### ⚡ Monitoring & Logging:
-- **Grafana + Prometheus**: Real-time monitoring and analysis.  
+- **GCP Native & Open Source**: Extensive experience with monitoring on GCP using **Prometheus**, **Cloud Logging**, and **Grafana** for real-time analysis and system health.  
 - **ELK Stack**: Centralized logging and troubleshooting system health.  
+
+### 🤖 MLOps & AI Infrastructure:
+- **LLM Deployment**: Deploying and managing Large Language Models on **vLLM**.  
+- **AI Infrastructure**: Building robust infrastructure for multilingual communication, image recognition, and specialized models for content safety and moderation.  
 
 ### 🔐 Identity & Access Management:
 - **Google Cloud IAM**: Organizations/Folders/Projects, roles and policies, service accounts, Workload Identity (GKE/CI).  
@@ -44,10 +47,12 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 
 ## 👨‍💼 Professional Experience  
 
-### **DreemiX (2024 - Present)** — DevOps Engineer (Part-Time)  
-- Managed **Kubernetes clusters on GKE**, automated deployments, and improved performance and reliability metrics.  
-- Designed and implemented CI/CD pipelines with GitHub Actions and Jenkins.  
-- Deployed and monitored containerized workloads on **GKE** and **Cloud Run**; managed **Cloud SQL** instances and IAM policies.  
+### **DreemiX (2024 - Present)** — DevOps & MLOps Engineer  
+- Managed large fleets of baremetal servers (**FreeBSD** and **Ubuntu**) across **OVH** and **Hetzner**, utilizing **Ansible** for configuration management.  
+- Managed **Kubernetes clusters on GKE**, automated deployments via **ArgoCD** and **Cloud Build**, and improved performance and reliability metrics.  
+- Built AI infrastructure: deployed LLMs on **vLLM** for multilingual communication and image recognition, focusing on content safety and moderation models.  
+- Deployed and monitored containerized workloads on **GKE** and **Cloud Run**; managed **Postgres Cloud SQL** instances and IAM policies.  
+- Implemented robust monitoring on GCP using **Prometheus** and **Cloud Logging**.  
 - Integrated **Google Workspace** with **Cloud IAM** for centralized, least-privilege access to GCP resources (groups-based RBAC, SSO).  
 - Built data ingestion paths and scheduled jobs for analytics in **BigQuery** (via Cloud Storage and ETL tooling).  
 
