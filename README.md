@@ -1,12 +1,12 @@
 **PDF Version** To download, <a href="README.pdf" target="_blank">click here</a>.
 
-# 🧑 Yurii Kosyi — DevOps Engineer  
+# Yurii Kosyi — DevOps & MLOps Engineer  
 
 Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **system administration** and **DevOps**. I specialize in creating scalable, secure, and efficient infrastructures, effectively organizing developer workflows, and maintaining secure, reliable environments to support business goals. My primary focus is **Google Cloud (GCP)**: Kubernetes on **GKE**, **Cloud SQL**, **Cloud Run**, and **BigQuery** — with tight **IAM** integration and **Google Workspace** as the central corporate identity and access layer.  
 
 ---
 
-## 📬 Contact Information  
+## Contact Information  
 - **Email:** y.kosiy@gmail.com  
 - **LinkedIn:** [Yurii Kosiy](https://www.linkedin.com/in/yuriy-kosiy/)  
 - **Telegram:** [@dreemix_com](https://t.me/dreemix_com)  
@@ -14,38 +14,38 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 
 ---
 
-## 🛠️ Core Competencies  
+## Core Competencies  
 
-### 🌐 DevOps Tools & Automation:
+### DevOps Tools & Automation:
 - **Kubernetes**: Deploying and managing scalable clusters, with deep expertise in **GKE**.  
 - **Terraform & Ansible**: Automating infrastructure as code and configuration management.  
 - **Docker & Artifact Registry**: Expertise in containerization, image management, and application lifecycle.  
 - **GitOps & CI/CD**: Managing deployments with **ArgoCD**, **FluxCD**, **Cloud Build**, **GitLab CICD**, and **GitHub Actions**.  
 
-### ☁️ Cloud Platforms & Bare Metal:
+### Cloud Platforms & Bare Metal:
 - **GCP:** GKE, Cloud Run, Postgres Cloud SQL, Cloud Build, Artifact Registry, Cloud Storage, BigQuery, IAM (Workload Identity, Service Accounts).  
 - **AWS:** EC2, S3, Lambda, EKS, RDS.  
 - **Bare Metal & Providers:** Extensive experience managing large fleets of bare metal servers on **OVH** and **Hetzner**.  
 
-### 🔧 OS & System Administration:
+### OS & System Administration:
 - **FreeBSD & Linux Expertise**: Daily usage, management, and administration of a vast number of **FreeBSD** and **Ubuntu** bare metal servers.  
 - **Scripting**: Automating processes with **Bash**, **Python**, and **Golang**.  
 
-### ⚡ Monitoring & Logging:
+### Monitoring & Logging:
 - **GCP Native & Open Source**: Extensive experience with monitoring on GCP using **Prometheus**, **Cloud Logging**, and **Grafana** for real-time analysis and system health.  
 - **ELK Stack**: Centralized logging and troubleshooting system health.  
 
-### 🤖 MLOps & AI Infrastructure:
+### MLOps & AI Infrastructure:
 - **LLM Deployment**: Deploying and managing Large Language Models on **vLLM**.  
 - **AI Infrastructure**: Building robust infrastructure for multilingual communication, image recognition, and specialized models for content safety and moderation.  
 
-### 🔐 Identity & Access Management:
+### Identity & Access Management:
 - **Google Cloud IAM**: Organizations/Folders/Projects, roles and policies, service accounts, Workload Identity (GKE/CI).  
 - **Google Workspace Admin**: SSO/SAML, groups-based access, OU structure, automated onboarding/offboarding; groups-driven RBAC across GCP and SaaS.  
 
 ---
 
-## 👨‍💼 Professional Experience  
+## Professional Experience  
 
 ### **DreemiX (2024 - Present)** — DevOps & MLOps Engineer  
 - Managed large fleets of baremetal servers (**FreeBSD** and **Ubuntu**) across **OVH** and **Hetzner**, utilizing **Ansible** for configuration management.  
@@ -70,34 +70,34 @@ Hello, I'm Yurii Kosyi with over 8 years of experience in IT, focusing on **syst
 
 ---
 
-## 📝 Education  
+## Education  
 - **Bachelor’s Degree in Electrical Engineering**  
   Odesa National Polytechnic University (2006) - specialization in Power Supply for Industrial and Municipal Facilities
 
 ---
 
-## 🎓 Additional Education  
+## Additional Education  
 - **SoftServe Academy Course: Practical DevOps (2024)**  
 - **DevOps та Kubernetes. Практичний інтенсив+ by Prometheus (2024)**
 - **FastLane (2011) - Course on IBM AIX (Linux) Administration and Oracle DB**
 
 ---
 
-## 🌐 Soft Skills  
+## Soft Skills  
 - Clear Communication and Team Collaboration.  
 - Problem-Solving and Quick Troubleshooting.  
 - Strong Organizational Skills for Infrastructure Projects.  
 
 ---
 
-## ✈️ Hobbies  
+## Hobbies  
 - **AI/ML**: I regularly explore new tools and approaches (LLMs, MLOps) and integrate them into DevOps workflows with a pragmatic, no-hype mindset.  
 - **General aviation**: I’m not a pilot yet — working towards it; aviation discipline and checklists translate naturally into production operations.  
 - **Beekeeping**: I run a small apiary; systems thinking, observation, and attention to detail carry over to infrastructure work.  
 
 ---
 
-## ⭐ Feel free to reach out!  
+## Feel free to reach out!  
 I’m open to collaboration and discussions. Let’s connect on [LinkedIn](https://www.linkedin.com/in/yuriy-kosiy/) or explore my work on [GitHub](https://github.com/YuriiKosiy).  
 
 ---
